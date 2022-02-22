@@ -1,0 +1,13 @@
+number of students: 3
+Student ID: 879
+First Name: Sa
+Last Name: Sa
+GPA: 3.500000
+Student ID: 951
+First Name: Mer
+Last Name: G
+GPA: 3.300000
+Student ID: 64
+First Name: Al
+Last Name: Mo
+GPA: 2.600000
